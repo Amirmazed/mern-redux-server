@@ -6,3 +6,5 @@ The user can choose any watch he likes. He can view particular product’s price
 Then he can add to cart if he wants. He can also delete his order if he changes his mind. 
 Total number of selected item is showed in the cart section. These whole process is done using React and Redux. 
 I have deployed backend in Heroku and frontend in Netlify.
+
+Link link: https://quirky-pare-d65475.netlify.app/
